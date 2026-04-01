@@ -12,9 +12,10 @@ We are developing an innovative processing technique to fortify HQCF with plant-
 - Produce HQCF from cassava roots.
 - Fortify HQCF with plant-based protein.
 - Test for nutritional content and functionality.
+- Adoption of technology in processing and mixing the flour.
 
 ## Demo & Pitch Deck:
-- [Pitch Deck Link](https://canva.link/6bcea75szbtin25)[Demo Video Link](link_to_your_demo_video)
+- [Pitch Deck Link](https://canva.link/6bcea75szbtin25)[Demo Video Link](link_to_demo_video)
 
 ## How to Run:
 - To test the protein-fortification algorithm, run the following code in `code/protein_fortification_algorithm.py`:
