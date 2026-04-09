@@ -15,7 +15,7 @@ We are developing an innovative processing technique to fortify HQCF with plant-
 - Adoption of technology in processing and mixing the flour.
 
 ## Demo & Pitch Deck:
-- [Pitch Deck Link](https://canva.link/evgdxz9wawcwq91)[Demo Video Link](https://drive.google.com/file/d/1uEf02bGORLKTBjV2uPMYfi7ooggbPHfA/view?usp=drivesdk)
+- [Pitch Deck Link](https://canva.link/evgdxz9wawcwq91)  [Demo Video Link](https://drive.google.com/file/d/1uEf02bGORLKTBjV2uPMYfi7ooggbPHfA/view?usp=drivesdk)
 
 ## How to Run:
 - To test the protein-fortification algorithm, run the following code in `code/protein_fortification_algorithm.py`:
